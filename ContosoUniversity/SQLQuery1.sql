@@ -1,0 +1,1 @@
+﻿alter column dbo.Student.[First Name] 
